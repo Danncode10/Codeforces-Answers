@@ -1,4 +1,5 @@
 # Link: https://codeforces.com/problemset/problem/4/A
+# 800 elo
 
 '''
 Goal: Find a number when divided by 2 or split, results even, from 1 to 100
