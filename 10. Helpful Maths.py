@@ -13,6 +13,3 @@ for i in range(n-1):
 output = output + str(inp[-1])
 
 print(output)
-
-
-
