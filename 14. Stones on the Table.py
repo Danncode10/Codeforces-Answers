@@ -1,4 +1,4 @@
-# Link: https://codeforces.com/problemset/problem/266/A
+# Link: So
 # 800 elo
 #Notes:
 '''
